@@ -1,6 +1,6 @@
 {
   "name": "@yungezeit/stylelint-config-base",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Personal base Stylelint config",
   "author": "Charles Gruenais",
   "license": "MIT",

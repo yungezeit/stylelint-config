@@ -1,6 +1,6 @@
 {
   "name": "@yungezeit/stylelint-config-vue",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Personal Vue Stylelint config",
   "author": "Charles Gruenais",
   "license": "MIT",
